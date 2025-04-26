@@ -98,6 +98,19 @@ Deliver a playable, polished demo of Blade Spirits with:
 | Yuhashini | [@Yuhashini](https://github.com/Yuhashini) |
 
 ---
+## Required Tools and Software
+
+| Tool                  | Use                                 |
+|-----------------------|-------------------------------------|
+| **Unity 2022+**        | Game engine                        |
+| **Photon PUN 2 (Free)**| Multiplayer                        |
+| **Mixamo**             | Ninja characters + animations      |
+| **Kenney Assets**      | UI & map props                     |
+| **Pixabay / Freesound**| BGM + sound FX                     |
+| **Canva / Figma**      | Logo, poster, UI design            |
+| **OBS Studio**         | Record gameplay for trailer        |
+
+---
 
 # 🚀 Team Strategy
 - Everyone works on the **same GitHub repository**
